@@ -32,13 +32,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Purpose
 
-<img src="./Assets/.png" alt="" title="">
-<img src="./Assets/.png" alt="" title="">
-<img src="./Assets/.png" alt="" title="">
+<img src="./Assets/Product.png" alt="Product" title="Product">
+<img src="./Assets/Create.png" alt="Create" title="Create">
+<img src="./Assets/Tag.png" alt="Tag" title="Tag">
 
 ## Video Walkthrough
 
-<img src="./Assets/employeeTracker.gif" alt= "Demo Video" title="Demo Video">
+<img src="./Assets/insomnia.gif" alt= "Demo Video" title="Demo Video">
 
 ## Technologies Used
 
