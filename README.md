@@ -38,6 +38,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video Walkthrough
 
+### Starting the application
+
+<img src="./Assets/start-application.gif" alt= "Demo Video" title="Demo Video">
+
+### Categories
+
 <img src="./Assets/insomnia.gif" alt= "Demo Video" title="Demo Video">
 
 ## Technologies Used
