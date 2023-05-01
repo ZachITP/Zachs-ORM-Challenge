@@ -42,9 +42,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 <img src="./Assets/start-application.gif" alt= "Demo Video" title="Demo Video">
 
-### Categories
+### GET routes all products, and all tags
 
-<img src="./Assets/insomnia.gif" alt= "Demo Video" title="Demo Video">
+<img src="./Assets/Get.gif" alt= "Demo Video" title="Demo Video">
 
 ## Technologies Used
 
