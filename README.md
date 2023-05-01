@@ -1,4 +1,4 @@
-# Zach's ORM Challenge
+# Zach's ecommerce site
 
 #### By Zach Hanson and UTSA
 
@@ -30,11 +30,11 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-## SnapShot
+## SnapShots
 
 <img src="./Assets/Product.png" alt="Product" title="Product">
 <img src="./Assets/Create.png" alt="Create" title="Create">
-<img src="./Assets/Tag.png" alt="Tag" title="Tag">
+<img src="./Assets/CRUD.png" alt="CRUD" title="CRUD">
 
 ## Video Walkthrough
 
@@ -42,9 +42,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 <img src="./Assets/start-application.gif" alt= "Demo Video" title="Demo Video">
 
-### GET routes all products, and all tags
+### GET routes: all Products, all Categories and all Tags
 
 <img src="./Assets/Get.gif" alt= "Demo Video" title="Demo Video">
+
+### Create, Update, Delete
+
+<img src="./Assets/CRUD.gif" alt= "Demo Video" title="Demo Video">
 
 ## Technologies Used
 
